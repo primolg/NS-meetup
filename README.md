@@ -7,12 +7,11 @@ Once you've picked your trip and meeting point you can share this trip with a fr
 link : https://nsmeetup.netlify.app/
 
 
-design refrence:
-https://primolg.netlify.app/static/media/nsPage.e0568269f178b25a4c5c.jpg
+design refrence: https://primolg.netlify.app/static/media/nsPage.e0568269f178b25a4c5c.jpg
+
 Figma: https://www.figma.com/file/kQCIIG8BBR0zBS4HcNcVZP/NS-Reis-Planner?node-id=0%3A1&t=9jtbAfF9LabSTScJ-1
 
-link: 
-https://nsmeetup.netlify.app/
+link: https://nsmeetup.netlify.app/
 .
 
 Recources for developers:
